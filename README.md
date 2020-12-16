@@ -1,6 +1,4 @@
-# TN-trout-fishing
-
-# Capstone Proposal
+# Tennessee Trout Fishing
 
 ## Best Fishing Spots in TN for Trout
 
