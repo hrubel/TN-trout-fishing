@@ -1,6 +1,6 @@
-# Tennessee Trout Fishing
+# Best Fishing Spots in TN for Trout
 
-## Best Fishing Spots in TN for Trout
+
 ### Hallie Rubel
 
 
