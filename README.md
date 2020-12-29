@@ -61,6 +61,8 @@ Extra links
 
 ● 2020 Tims Ford Recreation Release Calendar January 2020 April 2020 July 2020 October 2020 01 02 03 04 01 02 03 04 01 02 03 04 01
          
-### Known Issues and Challenges:
+### Technologies:
 
-Currently dealing with the bodies of water being named different in all the files.
+ - Python
+ - Tableau
+ - Excel
