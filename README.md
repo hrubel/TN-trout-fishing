@@ -20,25 +20,6 @@ all the bodies of water and a guideline to follow, like times fishing is allowed
 If I wanted to go out fly fishing, for trout, where should I go? How far is the body of water away from me? Will I need to make it a weekend trip? What other fish could I also catch while there? And what are the restrictions of size and count of the species?
 
 
-### Minimum Viable Product:
-
-I would like to have a dashboard with a map on it of Tennessee. I would like that map to consist of bodies of water and campsites then allow a user to navigate through the dashboard with filters to choose from counties, types of fish, and dates of trout restocking. When a body of water is chosen, I would like a card to pop up with information about hours, regulations, and types of fish in the water.
-
-
-### Schedule:
-
-
-1. Get the data (12/16/2020)
-
-2. Clean and Explore the data (12/18/2020)
-
-3. Create Presentation of your Analysis (12/23/2020)
-
-4. Internal demos (1/4/2021)
-
-5. Demo Day!!! (1/7/2021)
-
-
 ### Data Sources:
 
 
