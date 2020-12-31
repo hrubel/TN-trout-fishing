@@ -45,6 +45,8 @@ I used these sites whether I downloaded data, webscraped, or used frames to copy
 
 - https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/boatlaunchaccess### 
 
+- http://www.eregulations.com/tennessee/fishing/trout-regulations/
+
 Extra:
 
 - https://www.tn.gov/content/dam/tn/twra/documents/fishing/trout/winter-trout-schedule.pdf
