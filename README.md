@@ -25,7 +25,7 @@ If I wanted to go out fly fishing, for trout, where should I go? How far is the 
 
 I used these sites whether I downloaded data, webscraped, or used frames to copy and paste into Excel.
 
-- https://hub.arcgis.com/datasets/esri::usa-rivers-and-streams/data?geometry=-35.942%2C-0.831%2C157.769%2C76.487&page=1 1297
+- https://hub.arcgis.com/datasets/esri::usa-rivers-and-streams/data?geometry=-35.942%2C-0.831%2C157.769%2C76.487&page=1
 
 - https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/winter/data
 
