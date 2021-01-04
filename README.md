@@ -6,7 +6,7 @@
 
 ### Summary:
 
-I want to create an interactive dashboard with a map of Tennessee, consisting of bodies of water and campsites. I would also like to include trout stocking schedules along with other species of fish you might catch while fishing for trout.I want the user to be able to choose based location and restocking date then drill down to details.
+I created an interactive dashboard with a map of Tennessee, consisting of bodies of water. 
 
 
 ### Motivation:
