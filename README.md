@@ -23,33 +23,27 @@ If I wanted to go out fly fishing, for trout, where should I go? How far is the 
 ### Data Sources:
 
 
-I used these sites whether I downloaded data, webscraped, or used frames to copy and paste into Excel.
+= Dataset for rivers and streams in linestring form: https://hub.arcgis.com/datasets/esri::usa-rivers-and-streams
 
-- https://hub.arcgis.com/datasets/esri::usa-rivers-and-streams/data?geometry=-35.942%2C-0.831%2C157.769%2C76.487&page=1
+= Dataset for TN state parks: https://tnstateparks-tdec.opendata.arcgis.com/datasets/tn-state-parks-campsites
 
-- https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/winter/data
+= Dataset for the winter stocking program: https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/winter/data
 
-- https://tnstateparks-tdec.opendata.arcgis.com/datasets/tn-state-parks-campsites
+= Dataset for the tailwater stocking program: https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/tailwater
 
-- http://www.eregulations.com/tennessee/fishing/region-1/
+= Dataset for the spring stocking program: https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/spring
 
-- https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/tailwater
- 
-- https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/spring
-  
-- https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/reservoir/data?geometry=-92.827%2C32.858%2C-74.568%2C39.076 
+= Dataset for the reservoir stocking program: https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/reservoir
 
-- https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/marinaaccess
+= Dataset for themarina access spots: https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/marinaaccess
 
-- https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/fishingaccess
+= Dataset for the fishing access spots: https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/fishingaccess
 
-- https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/boatlaunchaccess### 
+= Dataset for the boat launching locations: https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/boatlaunchaccess
 
-- http://www.eregulations.com/tennessee/fishing/trout-regulations/
+= Website I scraped for the other species of fish and their regulations: http://www.eregulations.com/tennessee/fishing/region-1/
 
-Extra:
-
-- https://www.tn.gov/content/dam/tn/twra/documents/fishing/trout/winter-trout-schedule.pdf
+= Website for the trout regulations: http://www.eregulations.com/tennessee/fishing/trout-regulations
 
 
 Technologies:
