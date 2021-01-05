@@ -20,6 +20,13 @@ all the bodies of water and a guideline to follow, like times fishing is allowed
 If I wanted to go out fly fishing, for trout, where should I go? How far is the body of water away from me? Will I need to make it a weekend trip? What other fish could I also catch while there? And what are the restrictions of size and count of the species?
 
 
+### Technologies:
+
+ - Python
+ - Tableau
+ - Excel
+ 
+
 ### Data Sources:
 
 
@@ -35,7 +42,7 @@ If I wanted to go out fly fishing, for trout, where should I go? How far is the 
 
 - Dataset for the reservoir stocking program: https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/reservoir
 
-- Dataset for themarina access spots: https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/marinaaccess
+- Dataset for the marina access spots: https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/marinaaccess
 
 - Dataset for the fishing access spots: https://data2017-09-06t154623620z-twra.opendata.arcgis.com/datasets/fishingaccess
 
@@ -44,11 +51,3 @@ If I wanted to go out fly fishing, for trout, where should I go? How far is the 
 - Website I scraped for the other species of fish and their regulations: http://www.eregulations.com/tennessee/fishing/region-1/
 
 - Website for the trout regulations: http://www.eregulations.com/tennessee/fishing/trout-regulations
-
-
-### Technologies:
-
-
- - Python
- - Tableau
- - Excel
