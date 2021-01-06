@@ -19,7 +19,7 @@ My personal motivation for choosing this topic, as my capstone, is my family. My
 If I wanted to go out fly fishing, for trout, where should I go? How far is the body of water away from me? Will I need to make it a weekend trip? What other fish could I also catch while there? And what are the restrictions of size and count of the species?
 
 ## Tableau link
-* https://public.tableau.com/profile/hallie.rubel#!/
+* https://public.tableau.com/profile/hallie.rubel#!/vizhome/TN_trout_fishing/Presentation?publish=yes
 
 ## Technologies:
 * Python
